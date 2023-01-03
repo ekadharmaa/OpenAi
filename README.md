@@ -63,20 +63,3 @@ node .
 // Jika True Maka Chat Kita Akan Terdeteksi, Jika False Harus Menggunakan .ai <text>
 }
 ```
-
-
-## Donate
-- [Dana](https://wa.me/6285878313791?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/628587313791?text=Bang+mau+donasi)
-
-# Social Media
-- [Instagram](https://instagram.com/iamkizakixd)
-- [Facebook](https://www.facebook.com/zaki.jelak)
-- [YouTube](https://www.youtube.com/@kizakixd)
-- [Website](https://my.kizakixd.xyz)
-
-# Thanks to
-- [KiZakiXD](https://github.com/kizakixd) <br> 
-- [Adiwajshing](https://github.com/adiwajshing) <br> 
-- [X-Zeera](https://github.com/xzeera-id) <br> 
-- [OpenAi](https://beta.openai.com/) <br> 
