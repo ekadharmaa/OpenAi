@@ -10,21 +10,21 @@
 <a href="https://github.com/ekadharmaa"><img title="Author" src="https://img.shields.io/badge/Author-ekadharmaa-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/kizakixd/followers"><img title="Followers" src="https://img.shields.io/github/followers/kizakixd?color=red&style=flat-square"></a>
-<a href="https://github.com/kizakixd/OpenAi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kizakixd/OpenAi?color=blue&style=flat-square"></a>
-<a href="https://github.com/kizakixd/OpenAi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kizakixd/OpenAi?color=red&style=flat-square"></a>
-<a href="https://github.com/kizakixd/OpenAi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kizakixd/OpenAi?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kizakixd/OpenAi"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/kizakixd/OpenAi/"><img title="Size" src="https://img.shields.io/github/repo-size/riychdwayne/Chika-Md?style=flat-square&color=green"></a>
+<a href="https://github.com/ekadharmaa/followers"><img title="Followers" src="https://img.shields.io/github/followers/ekadharmaa?color=red&style=flat-square"></a>
+<a href="https://github.com/ekadharmaa/OpenAi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ekadharmaa/OpenAi?color=blue&style=flat-square"></a>
+<a href="https://github.com/ekadharmaa/OpenAi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ekadharmaa/OpenAi?color=red&style=flat-square"></a>
+<a href="https://github.com/ekadharmaa/OpenAi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ekadharmaa/OpenAi?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ekadharmaa/OpenAi"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/ekadharmaa/OpenAi/"><img title="Size" src="https://img.shields.io/github/repo-size/riychdwayne/Chika-Md?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkizakixd%2FOpenAi&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kizakixd/OpenAi/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/ekadharmaa/OpenAi/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/KiZakiXD/OpenAi#requirements">Requirements</a> •
-  <a href="https://github.com/KiZakiXD/OpenAi#thanks-to">Thanks to</a> •
-  <a href="https://github.com/KiZakiXD/OpenAi#Social-Media"> Official Group Bot</a> •
-  <a href="https://github.com/KiZakiXD/OpenAi#donate">Donate</a>
+  <a href="https://github.com/ekadharmaa/OpenAi#requirements">Requirements</a> •
+  <a href="https://github.com/ekadharmaa/OpenAi#thanks-to">Thanks to</a> •
+  <a href="https://github.com/ekadharmaa/OpenAi#Social-Media"> Official Group Bot</a> •
+  <a href="https://github.com/ekadharmaa/OpenAi#donate">Donate</a>
 </p>
 </div>
 
